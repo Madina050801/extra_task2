@@ -1,0 +1,21 @@
+let myFirstName='Madina';
+let mySurname='Abduraufova';
+let middleName='Sherali qizi';
+let age=19;
+let gender='female';
+let live='Navoi';
+let from='Bukhara';
+let study='National University of Uzbekistan named after Mirzo Ulugbek';
+let studied='School N. 8, Navoiy';
+let hobby='travel';
+
+document.getElementById('firstName').innerHTML=myFirstName;
+document.getElementById('surname').innerHTML=mySurname;
+document.getElementById('middleName').innerHTML=middleName;
+document.getElementById('age').innerHTML=age;
+document.getElementById('gender').innerHTML=gender;
+document.getElementById('live').innerHTML=live;
+document.getElementById('from').innerHTML=from;
+document.getElementById('study').innerHTML=study;
+document.getElementById('studied').innerHTML=studied;
+document.getElementById('hobby').innerHTML=hobby;
